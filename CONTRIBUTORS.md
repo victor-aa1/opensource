@@ -8978,3 +8978,6 @@
 - [@tusharn89](https://github.com/tusharn89/)
 
 - [@vinzenlee](https://github.com/vinzenlee/)
+- [@victor-aa1](https://github.com/victor-aa1)
+- [@victoragbeo](https://github.com/victoragbeo)
+- [@vic-studio](https://github.com/vic-studio)]
